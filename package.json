@@ -14,7 +14,7 @@
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-router-dom": "^5.1.2",
-    "zokrates-js": "^1.0.20"
+    "zokrates-js": "^1.0.21"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
